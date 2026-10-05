@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HR-SAAS-Dashboard/static/css/main.d2b587e7.css",
+    "main.js": "/HR-SAAS-Dashboard/static/js/main.884a1d9e.js",
+    "static/js/453.c690c8aa.chunk.js": "/HR-SAAS-Dashboard/static/js/453.c690c8aa.chunk.js",
+    "index.html": "/HR-SAAS-Dashboard/index.html",
+    "main.d2b587e7.css.map": "/HR-SAAS-Dashboard/static/css/main.d2b587e7.css.map",
+    "main.884a1d9e.js.map": "/HR-SAAS-Dashboard/static/js/main.884a1d9e.js.map",
+    "453.c690c8aa.chunk.js.map": "/HR-SAAS-Dashboard/static/js/453.c690c8aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b587e7.css",
+    "static/js/main.884a1d9e.js"
+  ]
+}
